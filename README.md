@@ -3,7 +3,7 @@
 
 歡迎來到 [Qiskit](https://www.qiskit.org/) 的教學手冊!
 
-在這個專案中，有許多Jupyter notebooks的程式範本，用來幫助想使用qiskit學習量子計算的人，並可以在以下幾個backends之中執行(線上的量子處理器、線上模擬器或是本機的模擬器)。 此連結為IBM的線上量子處理器 [IBM Q](https://quantumexperience.ng.bluemix.net/qx/devices)。
+在這個專案中，有許多Jupyter notebooks的程式範本，用來幫助想學習qiskit以及量子計算的開發者，並可以在以下幾個backends之中執行(線上的量子處理器、線上模擬器或是本機的模擬器)。 此連結為IBM的線上量子處理器 [IBM Q](https://quantumexperience.ng.bluemix.net/qx/devices)。
 
 ## 安裝
 
