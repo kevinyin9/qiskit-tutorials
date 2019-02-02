@@ -3,13 +3,13 @@
 
 歡迎來到 [Qiskit](https://www.qiskit.org/) 的教學手冊!
 
-在這個專案中，有許多Jupyter notebooks的程式範本，用來幫助想使用qiskit學習量子計算的人，並可以執行在以下幾個backends之中(線上的量子處理器、線上模擬器或是本機的模擬器)。 此連結為IBM的線上量子處理器 [IBM Q](https://quantumexperience.ng.bluemix.net/qx/devices)。
+在這個專案中，有許多Jupyter notebooks的程式範本，用來幫助想使用qiskit學習量子計算的人，並可以在以下幾個backends之中執行(線上的量子處理器、線上模擬器或是本機的模擬器)。 此連結為IBM的線上量子處理器 [IBM Q](https://quantumexperience.ng.bluemix.net/qx/devices)。
 
 ## 安裝
 
-The notebooks for these tutorials can be viewed here on GitHub. But for the full experience, you'll want to interact with them!
+這些notebooks的範本以及教學可以在Github瀏覽。為了讓您有更好的學習過程以及體驗。
 
-使用[the Binder image](https://mybinder.org/v2/gh/Qiskit/qiskit-tutorial/master?filepath=index.ipynb)可以讓您透過瀏覽器去使用jupyter notebooks. 使您不用下載或安裝任何東西，但這也代表您不該輸入私人訊息到notebooks上(例如您的API金鑰)。 這篇[issue #231](https://github.com/Qiskit/qiskit-tutorial/issues/231)說明了您在使用完mybinder之後，應該立即重新建立一組新的token。
+您可以使用[the Binder image](https://mybinder.org/v2/gh/Qiskit/qiskit-tutorial/master?filepath=index.ipynb)可以讓您透過瀏覽器去使用jupyter notebooks，並使您不用下載或安裝任何東西，但這也代表您不該輸入私人訊息到notebooks中(例如您的API金鑰)。 這篇[issue #231](https://github.com/Qiskit/qiskit-tutorial/issues/231)說明了您在使用完mybinder之後，應該立即重新建立一組新的token。
 
 並請參考 [安裝手冊](INSTALL.md) 以順利安裝Qiskit在您的電腦上。
 
