@@ -3,7 +3,7 @@
 
 歡迎來到 [Qiskit](https://www.qiskit.org/) 的教學手冊!
 
-In this repository, we've put together a collection of Jupyter notebooks aimed at teaching people who want to use Qiskit for writing quantum computing programs, and executing them on one of several backends (online quantum processors, online simulators, and local simulators). The online quantum processors are the [IBM Q](https://quantumexperience.ng.bluemix.net/qx/devices) devices.
+在這個專案中，有許多Jupyter notebooks的程式範本，用來幫助想使用qiskit學習量子計算的人，並可以執行在以下幾個backends之中(線上的量子處理器、線上模擬器或是本機的模擬器)。 此網址為線上的量子處理器 [IBM Q](https://quantumexperience.ng.bluemix.net/qx/devices)。
 
 ## Installation
 
