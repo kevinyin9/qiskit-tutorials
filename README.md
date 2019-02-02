@@ -35,7 +35,7 @@
 - [Quantum Algorithms](community/aqua/)，透過noisy near-term devices以及Qiskit Aqua來學習量子演算法。
 - [Teach Me Qiskit 2018](community/awards/teach_me_qiskit_2018/)，從[Teach Me Qiskit award](https://www.ibm.com/blogs/research/2018/06/teach-qiskit-winner/)這個偉大的貢獻來學習Qiskit。
 
-To go through the tutorials, load up the [index.ipynb](index.ipynb) notebook and start learning.
+想完整查看教學手冊，可以至 [index.ipynb](index.ipynb)。
 
 ## 貢獻教學
 
