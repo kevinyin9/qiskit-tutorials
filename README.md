@@ -1,8 +1,7 @@
-# Qiskit Tutorials
-
+# Qiskit 教學手冊
 [![License](https://img.shields.io/github/license/Qiskit/qiskit-tutorials.svg?style=popout-square)](https://opensource.org/licenses/Apache-2.0)[![](https://img.shields.io/github/release/Qiskit/qiskit-tutorials.svg?style=popout-square)](https://github.com/Qiskit/qiskit-tutorials/releases)
 
-Welcome to the [Qiskit](https://www.qiskit.org/) tutorials!
+歡迎來到 [Qiskit](https://www.qiskit.org/) 的教學手冊!
 
 In this repository, we've put together a collection of Jupyter notebooks aimed at teaching people who want to use Qiskit for writing quantum computing programs, and executing them on one of several backends (online quantum processors, online simulators, and local simulators). The online quantum processors are the [IBM Q](https://quantumexperience.ng.bluemix.net/qx/devices) devices.
 
