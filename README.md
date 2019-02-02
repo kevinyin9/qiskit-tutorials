@@ -9,9 +9,9 @@
 
 The notebooks for these tutorials can be viewed here on GitHub. But for the full experience, you'll want to interact with them!
 
-使用[the Binder image](https://mybinder.org/v2/gh/Qiskit/qiskit-tutorial/master?filepath=index.ipynb)可以讓您透過瀏覽器去使用jupyter notebooks. 使您不用下載或安裝任何東西，但這也代表您不該輸入私人訊息到notebooks上(例如您的API金鑰)。 這篇[issue #231](https://github.com/Qiskit/qiskit-tutorial/issues/231) ，您應該在使用mybinder之後重新產生一組新的token。
+使用[the Binder image](https://mybinder.org/v2/gh/Qiskit/qiskit-tutorial/master?filepath=index.ipynb)可以讓您透過瀏覽器去使用jupyter notebooks. 使您不用下載或安裝任何東西，但這也代表您不該輸入私人訊息到notebooks上(例如您的API金鑰)。 這篇[issue #231](https://github.com/Qiskit/qiskit-tutorial/issues/231)說明了您在使用完mybinder之後，應該立即重新建立一組新的token。
 
-請參考此安裝手冊 [installation guide](INSTALL.md) 以順利安裝Qiskit在您的電腦上。
+並請參考 [安裝手冊](INSTALL.md) 以順利安裝Qiskit在您的電腦上。
 
 ## Contents
 
