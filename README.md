@@ -41,7 +41,7 @@
 
 如果您想參與貢獻Qiskit教學手冊，您可以查看[contribution guidelines](.github/CONTRIBUTING.rst). 此專案遵循[行為守則](.github/CODE_OF_CONDUCT.md). 如果您也能遵守此份守則。
 
-我們並使用 [GitHub issues](https://github.com/Qiskit/qiskit-tutorials/issues) 來追蹤 requests 以及 bugs. 如果有相關問題可以至 [slack](https://qiskit.slack.com) 詢問。 此為Slack [連結](https://join.slack.com/t/qiskit/shared_invite/enQtNDc2NjUzMjE4Mzc0LTMwZmE0YTM4ZThiNGJmODkzN2Y2NTNlMDIwYWNjYzA2ZmM1YTRlZGQ3OGM0NjcwMjZkZGE0MTA4MGQ1ZTVmYzk). 並且可以在 [Stack Overflow](https://stackoverflow.com/questions/tagged/qiskit) 上詢問Qiskit的相關問題並tag qiskit.
+我們並使用 [GitHub issues](https://github.com/Qiskit/qiskit-tutorials/issues) 來追蹤 requests 以及 bugs。 如果有相關問題可以至 [slack](https://qiskit.slack.com) 詢問。 此為Slack [連結](https://join.slack.com/t/qiskit/shared_invite/enQtNDc2NjUzMjE4Mzc0LTMwZmE0YTM4ZThiNGJmODkzN2Y2NTNlMDIwYWNjYzA2ZmM1YTRlZGQ3OGM0NjcwMjZkZGE0MTA4MGQ1ZTVmYzk). 並且可以在 [Stack Overflow](https://stackoverflow.com/questions/tagged/qiskit) 上詢問Qiskit的相關問題並tag qiskit.
 
 ## 作者群
 
